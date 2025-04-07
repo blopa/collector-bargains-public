@@ -1,0 +1,154 @@
+[
+  {
+    "id": "88a78b8a-5113-4d46-bda7-b1b19e2b8b70",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 5.99,
+    "createdAt": "2025-04-11T20:55:05.147Z",
+    "updatedAt": "2025-04-11T20:55:05.147Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "c3c9e1b9-d9dc-4b39-933a-9a2d1c508ac5",
+    "freeShippingThreshold": 69,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "FR",
+      "name": "France"
+    }
+  },
+  {
+    "id": "10ab116a-248b-403e-af7b-42276d486ef8",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 6.5,
+    "createdAt": "2025-04-11T20:55:05.162Z",
+    "updatedAt": "2025-04-11T20:55:05.162Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "freeShippingThreshold": 69,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  },
+  {
+    "id": "28bc93dd-51a2-4c7d-9377-c4dec6d8e360",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 6.5,
+    "createdAt": "2025-04-11T20:55:05.168Z",
+    "updatedAt": "2025-04-11T20:55:05.168Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "9870bdaa-3a67-4926-9552-8772e331c8ca",
+    "freeShippingThreshold": 69,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "LU",
+      "name": "Luxembourg"
+    }
+  },
+  {
+    "id": "80a2750c-4d96-4087-8c86-19b66adbff02",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 6.5,
+    "createdAt": "2025-04-11T20:55:05.174Z",
+    "updatedAt": "2025-04-11T20:55:05.174Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "1e31ca7e-16ed-416a-a2f3-7bdbe780e059",
+    "freeShippingThreshold": 69,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "ES",
+      "name": "Spain"
+    }
+  },
+  {
+    "id": "2c6c7b11-4e78-4a56-ac48-c9bfc4f81830",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 6.5,
+    "createdAt": "2025-04-11T20:55:05.183Z",
+    "updatedAt": "2025-04-11T20:55:05.183Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "ff245d03-a66e-4484-ab44-b15f55dd8859",
+    "freeShippingThreshold": 69,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  },
+  {
+    "id": "5d19a1c3-7fe3-4428-b211-386e332941aa",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 6.5,
+    "createdAt": "2025-04-11T20:55:05.194Z",
+    "updatedAt": "2025-04-11T20:55:05.194Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "327e2e9a-3ca9-4a38-943d-0604d08ed905",
+    "freeShippingThreshold": 69,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "IT",
+      "name": "Italy"
+    }
+  },
+  {
+    "id": "0a01f75c-2414-4a24-b31b-3d4805d96974",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 20,
+    "createdAt": "2025-04-11T20:55:05.205Z",
+    "updatedAt": "2025-04-11T20:55:05.205Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "d29b1058-0899-4005-86e8-ad12cfdb3ec5",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  },
+  {
+    "id": "ba974d2b-58db-468b-989f-9e41fb5cdb37",
+    "retailerId": "9c774bb9-322d-4edd-b077-2213a5f81013",
+    "shipping": 9.5,
+    "createdAt": "2025-04-11T20:55:05.216Z",
+    "updatedAt": "2025-04-11T20:55:05.216Z",
+    "deletedAt": null,
+    "fromCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "toCountryId": "cb449387-696d-4fc1-b79f-300c83d12670",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "toCountry": {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  }
+]

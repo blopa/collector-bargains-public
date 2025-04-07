@@ -1,0 +1,21 @@
+[
+  {
+    "id": "4a2f8394-33c3-4e0c-a4e0-2da477bf3bcd",
+    "retailerId": "a52f5bf3-59d7-45ff-85a8-ef03eb257a8a",
+    "shipping": 45.95,
+    "createdAt": "2025-04-11T20:55:11.888Z",
+    "updatedAt": "2025-04-11T20:55:11.888Z",
+    "deletedAt": null,
+    "fromCountryId": "c2b4eed3-4d5d-4e5d-9a0c-f4e976d32c13",
+    "toCountryId": "c2b4eed3-4d5d-4e5d-9a0c-f4e976d32c13",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "toCountry": {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  }
+]

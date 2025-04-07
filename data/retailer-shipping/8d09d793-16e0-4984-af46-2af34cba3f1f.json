@@ -1,0 +1,40 @@
+[
+  {
+    "id": "869fe417-734a-4ea6-9f6b-7b07923139a5",
+    "retailerId": "8d09d793-16e0-4984-af46-2af34cba3f1f",
+    "shipping": 12.95,
+    "createdAt": "2025-04-11T20:55:11.895Z",
+    "updatedAt": "2025-04-11T20:55:11.915Z",
+    "deletedAt": null,
+    "fromCountryId": "1e31ca7e-16ed-416a-a2f3-7bdbe780e059",
+    "toCountryId": "1e31ca7e-16ed-416a-a2f3-7bdbe780e059",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "toCountry": {
+      "code": "ES",
+      "name": "Spain"
+    }
+  },
+  {
+    "id": "9b942074-7246-4f49-b1a3-a81b5e6e71ef",
+    "retailerId": "8d09d793-16e0-4984-af46-2af34cba3f1f",
+    "shipping": 18.95,
+    "createdAt": "2025-04-11T20:55:11.924Z",
+    "updatedAt": "2025-04-11T20:55:11.934Z",
+    "deletedAt": null,
+    "fromCountryId": "1e31ca7e-16ed-416a-a2f3-7bdbe780e059",
+    "toCountryId": "ff245d03-a66e-4484-ab44-b15f55dd8859",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "toCountry": {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  }
+]

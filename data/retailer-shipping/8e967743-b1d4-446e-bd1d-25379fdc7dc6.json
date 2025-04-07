@@ -1,0 +1,21 @@
+[
+  {
+    "id": "2b2710a6-cdab-4800-b4af-377b5937f2a9",
+    "retailerId": "8e967743-b1d4-446e-bd1d-25379fdc7dc6",
+    "shipping": 10,
+    "createdAt": "2025-04-11T20:55:16.752Z",
+    "updatedAt": "2025-04-11T20:55:16.752Z",
+    "deletedAt": null,
+    "fromCountryId": "cfa253f4-b9e1-4488-9eba-3ea3f0834e01",
+    "toCountryId": "cfa253f4-b9e1-4488-9eba-3ea3f0834e01",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "US",
+      "name": "United States of America"
+    },
+    "toCountry": {
+      "code": "US",
+      "name": "United States of America"
+    }
+  }
+]

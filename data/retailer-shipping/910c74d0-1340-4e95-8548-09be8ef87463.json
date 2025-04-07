@@ -1,0 +1,515 @@
+[
+  {
+    "id": "1781598f-d9ca-4c35-9525-c68c1eed5a3d",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 10.45,
+    "createdAt": "2025-04-11T20:55:06.610Z",
+    "updatedAt": "2025-04-11T20:55:06.610Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "2801967a-360d-4f35-b27c-e3d5ca481d8d",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  },
+  {
+    "id": "06e6c1d8-d870-40ef-8628-efc60cc24601",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 15.09,
+    "createdAt": "2025-04-11T20:55:06.616Z",
+    "updatedAt": "2025-04-11T20:55:06.616Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "a9e53407-422d-4721-b6f3-aa508115e05b",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "AT",
+      "name": "Austria"
+    }
+  },
+  {
+    "id": "cbe1f7e1-13be-4bb7-a0a3-c9ff612d3afa",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 7,
+    "createdAt": "2025-04-11T20:55:06.624Z",
+    "updatedAt": "2025-04-11T20:55:06.624Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  },
+  {
+    "id": "f7155e65-4ccd-47ff-9c68-0bd0c299173a",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 15.09,
+    "createdAt": "2025-04-11T20:55:06.633Z",
+    "updatedAt": "2025-04-11T20:55:06.633Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "b8a758f7-60b2-46d8-96f1-edbaee564713",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  },
+  {
+    "id": "1ec22f2b-fd05-4135-83d6-96a738c02c3e",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 15.09,
+    "createdAt": "2025-04-11T20:55:06.643Z",
+    "updatedAt": "2025-04-11T20:55:06.643Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "c3c9e1b9-d9dc-4b39-933a-9a2d1c508ac5",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "FR",
+      "name": "France"
+    }
+  },
+  {
+    "id": "623366d4-ff06-4c58-aa91-ff8ac1992e0a",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 15.09,
+    "createdAt": "2025-04-11T20:55:06.653Z",
+    "updatedAt": "2025-04-11T20:55:06.653Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "ee12370f-07c6-4ac0-b5e7-43ce90c81df0",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "DE",
+      "name": "Germany"
+    }
+  },
+  {
+    "id": "d86cc447-4d0b-4250-8b5a-54d879cc8bb8",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 15.09,
+    "createdAt": "2025-04-11T20:55:06.662Z",
+    "updatedAt": "2025-04-11T20:55:06.662Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "9870bdaa-3a67-4926-9552-8772e331c8ca",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "LU",
+      "name": "Luxembourg"
+    }
+  },
+  {
+    "id": "0d70a29a-4b02-4e41-9526-e57596db1eca",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 15.09,
+    "createdAt": "2025-04-11T20:55:06.672Z",
+    "updatedAt": "2025-04-11T20:55:06.672Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "697eab5b-d41e-4393-addf-1d5f3ec6c810",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "PL",
+      "name": "Poland"
+    }
+  },
+  {
+    "id": "bc93aabb-b686-45a4-aeb6-6c8f9222a14a",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 16.08,
+    "createdAt": "2025-04-11T20:55:06.683Z",
+    "updatedAt": "2025-04-11T20:55:06.683Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "327e2e9a-3ca9-4a38-943d-0604d08ed905",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "IT",
+      "name": "Italy"
+    }
+  },
+  {
+    "id": "fdcda384-3add-472f-95a7-5fd5e01df6bd",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 16.08,
+    "createdAt": "2025-04-11T20:55:06.693Z",
+    "updatedAt": "2025-04-11T20:55:06.693Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "1e31ca7e-16ed-416a-a2f3-7bdbe780e059",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "ES",
+      "name": "Spain"
+    }
+  },
+  {
+    "id": "c0571e16-7e1a-4305-94d7-fc2956dd30ae",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 16.08,
+    "createdAt": "2025-04-11T20:55:06.702Z",
+    "updatedAt": "2025-04-11T20:55:06.702Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "660cc35e-22be-46ee-83e0-1707c1a876a3",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  },
+  {
+    "id": "2b76926e-8af8-4bbd-8923-45757aa3f415",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.711Z",
+    "updatedAt": "2025-04-11T20:55:06.711Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "32e964b2-fc6a-47eb-aed6-7d7c5a306a96",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "BG",
+      "name": "Bulgaria"
+    }
+  },
+  {
+    "id": "c867a2f8-930f-4bc4-b357-e8faf2c90fc9",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.722Z",
+    "updatedAt": "2025-04-11T20:55:06.722Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "532622bc-ed6a-41b7-8fd7-e409a15ec963",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "HR",
+      "name": "Croatia"
+    }
+  },
+  {
+    "id": "7a20929a-4937-4b28-b6eb-9b173c710536",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.731Z",
+    "updatedAt": "2025-04-11T20:55:06.731Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "c74c6a68-eab0-4511-8ee0-8ad213cfc55e",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  },
+  {
+    "id": "5dbb02f2-91d2-45d9-8ccc-7bc49f183580",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.742Z",
+    "updatedAt": "2025-04-11T20:55:06.742Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "5fb08173-c03e-4505-b696-20b5b9633ade",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "FI",
+      "name": "Finland"
+    }
+  },
+  {
+    "id": "4b1a59e3-510a-4f9f-963c-0a613a9155f9",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.751Z",
+    "updatedAt": "2025-04-11T20:55:06.751Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "005e127c-d62c-4b0d-baa2-15d2378edbd2",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "GR",
+      "name": "Greece"
+    }
+  },
+  {
+    "id": "becbd3d0-3f40-43ee-b146-5315a8dde8f2",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.761Z",
+    "updatedAt": "2025-04-11T20:55:06.761Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "40d9aad7-3bcf-4846-bd31-3a4cd40da42b",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "HU",
+      "name": "Hungary"
+    }
+  },
+  {
+    "id": "aac61f40-00d2-4c66-a5e3-09af2806e38b",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.771Z",
+    "updatedAt": "2025-04-11T20:55:06.771Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "69faed02-54ed-46e8-93ad-0d62f07daff1",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "IE",
+      "name": "Ireland"
+    }
+  },
+  {
+    "id": "e41cf111-44be-44a1-8746-b729eb38d582",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.780Z",
+    "updatedAt": "2025-04-11T20:55:06.780Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "5548d752-f7fe-4b4b-8755-e12fdcb71b3c",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "LV",
+      "name": "Latvia"
+    }
+  },
+  {
+    "id": "ee79de59-8266-45f0-bef6-dd724a2fc060",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.790Z",
+    "updatedAt": "2025-04-11T20:55:06.790Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "38e9ae9c-7b67-4ff4-8e81-f4804532bfbe",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "LT",
+      "name": "Lithuania"
+    }
+  },
+  {
+    "id": "5c4a4830-3b1d-4b0e-b0ad-5694c7f4d1c4",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.799Z",
+    "updatedAt": "2025-04-11T20:55:06.799Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "ff245d03-a66e-4484-ab44-b15f55dd8859",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  },
+  {
+    "id": "361c1d1a-b823-4fee-9083-e8773d4be4e8",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.809Z",
+    "updatedAt": "2025-04-11T20:55:06.809Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "99b8dc45-395e-43d8-973a-2863c63b4f21",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "RO",
+      "name": "Romania"
+    }
+  },
+  {
+    "id": "515e01e6-e4d5-43f1-a43d-0bdf3c38e8cd",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.818Z",
+    "updatedAt": "2025-04-11T20:55:06.818Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "f912412b-b575-4789-aa8b-0bc627d00aef",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "SK",
+      "name": "Slovakia"
+    }
+  },
+  {
+    "id": "91229a6f-3120-4362-8158-2408094bb64e",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 19.44,
+    "createdAt": "2025-04-11T20:55:06.827Z",
+    "updatedAt": "2025-04-11T20:55:06.827Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "830f3f2b-1a29-435a-a41e-feec245fa06b",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "SI",
+      "name": "Slovenia"
+    }
+  },
+  {
+    "id": "dd1157d4-bfba-4497-aa50-b67bbe9ebc3a",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 20.55,
+    "createdAt": "2025-04-11T20:55:06.838Z",
+    "updatedAt": "2025-04-11T20:55:06.838Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "78f5e90e-dab8-42b4-b5ca-0b6a50fe770a",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "CY",
+      "name": "Cyprus"
+    }
+  },
+  {
+    "id": "50a9dc45-31a7-4a0f-b883-da457285819d",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 20.55,
+    "createdAt": "2025-04-11T20:55:06.847Z",
+    "updatedAt": "2025-04-11T20:55:06.847Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "d1b9cd3a-f4a6-4545-bf1c-82b644ad5b2c",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "EE",
+      "name": "Estonia"
+    }
+  },
+  {
+    "id": "c9b9856a-6b4a-4926-a785-24227e3d5ed5",
+    "retailerId": "910c74d0-1340-4e95-8548-09be8ef87463",
+    "shipping": 21.91,
+    "createdAt": "2025-04-11T20:55:06.856Z",
+    "updatedAt": "2025-04-11T20:55:06.856Z",
+    "deletedAt": null,
+    "fromCountryId": "37640b00-904f-4b4d-a385-bc7f8275eb25",
+    "toCountryId": "796cc427-ed06-43d2-8279-1cc20c20725a",
+    "freeShippingThreshold": null,
+    "fromCountry": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "toCountry": {
+      "code": "MT",
+      "name": "Malta"
+    }
+  }
+]
